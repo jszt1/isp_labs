@@ -1,0 +1,14 @@
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+*.dcp
+
+vivado*.jou
+vivado*.log
+vivado*.str
+
+*~
+*.bak
